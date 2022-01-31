@@ -1,0 +1,11 @@
+Source: cmake-ada
+Section: devel
+Priority: optional
+Maintainer: Ilya Stolyarov <ila.embsys@gmail.com>
+Build-Depends: debhelper (>= 9), cmake
+Standards-Version: 3.9.8
+Homepage: https://github.com/ila-embsys/cmake-ada
+
+Package: cmake-ada
+Architecture: any
+Description: Ada language support for CMake.
